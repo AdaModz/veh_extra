@@ -5,9 +5,10 @@
 
 --]]
 
-
 description 'Vehicle Extra Command'
 
-client_script	'client/main.lua'
+version '1.1.0'
+
+client_script 'client/main.lua'
 
 server_script 'server/main.lua'
